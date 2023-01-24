@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+<a href="https://github.com/chriswike/liftoff-assignments/blob/master/P6-Project_Presentation/Chris%20Wike%20LifeNotes%20Java%20Journaling%20Project%20Presentation%20Template.pdf">PDF Link to presentation.</a>
